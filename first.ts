@@ -21,3 +21,4 @@ let truth: boolean = true
 // includes: enum, class, interface, array & tuple
 
 // TypeScript supports all features of object-oriented programming
+
